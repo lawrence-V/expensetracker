@@ -1,0 +1,386 @@
+2025-09-19 10:51:08 [[32minfo[39m]: Connecting to databases...
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: Connected to MongoDB: expense_tracker
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: Database indexes created successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: 🚀 Expense Tracker API is running on port 3000
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: 📊 Environment: development
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: 🗄️ Database: Connected to MongoDB
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: 🔄 Cache: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: 📝 Logs: Writing to logs/app.log
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: 🔗 Health Check: http://localhost:3000/health
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:51:08 [[32minfo[39m]: 📋 API Base URL: http://localhost:3000/api
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:15 [[32minfo[39m]: Received SIGINT. Starting graceful shutdown...
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: Connecting to databases...
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: Connected to MongoDB: expense_tracker
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: Database indexes created successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: 🚀 Expense Tracker API is running on port 3000
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: 📊 Environment: development
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: 🗄️ Database: Connected to MongoDB
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: 🔄 Cache: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: 📝 Logs: Writing to logs/app.log
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: 🔗 Health Check: http://localhost:3000/health
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:53:54 [[32minfo[39m]: 📋 API Base URL: http://localhost:3000/api
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:55:54 [[32minfo[39m]: Connecting to databases...
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:55:54 [[32minfo[39m]: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:55:54 [[32minfo[39m]: Connected to MongoDB: expense_tracker
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:55:54 [[32minfo[39m]: Database indexes created successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:56:24 [[32minfo[39m]: Connecting to databases...
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:56:24 [[32minfo[39m]: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:56:24 [[32minfo[39m]: Connected to MongoDB: expense_tracker
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:56:24 [[32minfo[39m]: Database indexes created successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:56:49 [[32minfo[39m]: Connecting to databases...
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:56:49 [[32minfo[39m]: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:56:50 [[32minfo[39m]: Connected to MongoDB: expense_tracker
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:56:50 [[32minfo[39m]: Database indexes created successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: Connecting to databases...
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: Connected to MongoDB: expense_tracker
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: Database indexes created successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: 🚀 Expense Tracker API is running on port 3009
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: 📊 Environment: development
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: 🗄️ Database: Connected to MongoDB
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: 🔄 Cache: Connected to Redis
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: 📝 Logs: Writing to logs/app.log
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: 🔗 Health Check: http://localhost:3009/health
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 10:57:09 [[32minfo[39m]: 📋 API Base URL: http://localhost:3009/api
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:05:02 [[32minfo[39m]: POST /api/auth/register
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:05:02 [[32minfo[39m]: User created successfully: john.doe@example.com
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:05:02 [[32minfo[39m]: User registered successfully: john.doe@example.com
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:05:02 [[32minfo[39m]: New user registered: john.doe@example.com
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:16:07 [[32minfo[39m]: POST /api/auth/login
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:16:07 [[32minfo[39m]: User logged in successfully: john.doe@example.com
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:16:07 [[32minfo[39m]: User logged in: john.doe@example.com
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:16:07 [[32minfo[39m]: Updated last login for user: 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:17:03 [[32minfo[39m]: POST /api/auth/login
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:17:03 [[33mwarn[39m]: Validation failed for body:
+{
+  "service": "expense-tracker-api",
+  "errors": [
+    "Email is required",
+    "Password is required"
+  ],
+  "data": {
+    "title": "Weekly Grocery Shopping",
+    "description": "Fruits, vegetables, and household items",
+    "amount": 125.5,
+    "category": "Groceries"
+  }
+}
+2025-09-19 11:17:20 [[32minfo[39m]: POST /api/auth/expenses
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:17:20 [[33mwarn[39m]: 404 - Route not found: POST /api/auth/expenses
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:17:26 [[32minfo[39m]: POST /api/expenses
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:17:26 [[31merror[39m]: Authentication failed: Token verification failed
+{
+  "service": "expense-tracker-api",
+  "statusCode": 401,
+  "isOperational": true,
+  "stack": "Error: Token verification failed\n    at Function.verifyAccessToken (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/src/utils/jwt.ts:63:15)\n    at authenticateToken (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/src/middlewares/auth.ts:40:30)\n    at Layer.handleRequest (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/node_modules/router/index.js:342:13)\n    at /Users/lawrencevaldez/Personal Projects/expensetracker/backend/node_modules/router/index.js:297:9\n    at processParams (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/node_modules/router/index.js:582:12)\n    at next (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/node_modules/router/index.js:291:5)\n    at Function.handle (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/node_modules/router/index.js:186:3)\n    at router (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/node_modules/router/index.js:60:12)\n    at Layer.handleRequest (/Users/lawrencevaldez/Personal Projects/expensetracker/backend/node_modules/router/lib/layer.js:152:17)"
+}
+2025-09-19 11:17:50 [[32minfo[39m]: POST /api/expenses
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:17:50 [[32minfo[39m]: User 68ccc85e8715645428193f84 authenticated successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:17:50 [[32minfo[39m]: Expense created successfully: 68cccb5e8715645428193f85 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:17:50 [[32minfo[39m]: Expense created: 68cccb5e8715645428193f85 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:17:50 [[32minfo[39m]: Expense created: 68cccb5e8715645428193f85 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:40 [[32minfo[39m]: POST /api/expenses
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:18:40 [[32minfo[39m]: User 68ccc85e8715645428193f84 authenticated successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:40 [[32minfo[39m]: Expense created successfully: 68cccb908715645428193f86 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:40 [[32minfo[39m]: Expense created: 68cccb908715645428193f86 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:40 [[32minfo[39m]: Expense created: 68cccb908715645428193f86 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:52 [[32minfo[39m]: POST /api/expenses
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:18:52 [[32minfo[39m]: User 68ccc85e8715645428193f84 authenticated successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:52 [[32minfo[39m]: Expense created successfully: 68cccb9c8715645428193f87 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:52 [[32minfo[39m]: Expense created: 68cccb9c8715645428193f87 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:52 [[32minfo[39m]: Expense created: 68cccb9c8715645428193f87 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:58 [[32minfo[39m]: POST /api/expenses
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:18:58 [[32minfo[39m]: User 68ccc85e8715645428193f84 authenticated successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:58 [[32minfo[39m]: Expense created successfully: 68cccba28715645428193f88 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:58 [[32minfo[39m]: Expense created: 68cccba28715645428193f88 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:18:58 [[32minfo[39m]: Expense created: 68cccba28715645428193f88 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:19:06 [[32minfo[39m]: POST /api/expenses
+{
+  "service": "expense-tracker-api",
+  "ip": "::1",
+  "userAgent": "PostmanRuntime/7.45.0",
+  "userId": "anonymous"
+}
+2025-09-19 11:19:06 [[32minfo[39m]: User 68ccc85e8715645428193f84 authenticated successfully
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:19:06 [[32minfo[39m]: Expense created successfully: 68cccbaa8715645428193f89 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:19:06 [[32minfo[39m]: Expense created: 68cccbaa8715645428193f89 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
+2025-09-19 11:19:06 [[32minfo[39m]: Expense created: 68cccbaa8715645428193f89 for user 68ccc85e8715645428193f84
+{
+  "service": "expense-tracker-api"
+}
